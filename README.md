@@ -21,4 +21,6 @@ a.exe
 # OUTPUT
 <img width="961" height="793" alt="image" src="https://github.com/user-attachments/assets/0f88147f-2abb-4753-a91b-0dba90b20f17" />
 # RESULT
+```
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
+```
